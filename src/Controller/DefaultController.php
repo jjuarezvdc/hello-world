@@ -14,7 +14,7 @@ class DefaultController extends Controller{
                     <h2>Podremos pasar esto a master?</h2>
                 </body>
                 <footer>
-                    texto
+                    tex(esto solo esta en foobaz)to
                 </footer>
             </html>
         ');

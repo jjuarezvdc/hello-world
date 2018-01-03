@@ -15,7 +15,7 @@ class DefaultController extends Controller{
                 </body>
                 <footer>
                     tex(esto solo esta en foobaz)to
-                    llegue a menu... voy a ponerlo
+                    llegue a menu... voy a ponerlo 
                 </footer>
             </html>
         ');

@@ -13,6 +13,9 @@ class DefaultController extends Controller{
                     <h1>Hello Symfony 4  World. sucediendo en master?</h1>
                     <h2>Podremos pasar esto a master?</h2>
                 </body>
+                <footer>
+                    texto
+                </footer>
             </html>
         ');
     }
